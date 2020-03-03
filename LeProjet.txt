@@ -1,0 +1,13 @@
+En quoi consiste mon projet ?
+Mon projet est un journal répertorient des actus sur l'écologie en format d'application :
+- Un menu
+- Création de compte
+
+Objectif :
+- Les personnes se promène et quand ils trouvent un point d'eau potable, ils le mette sur l'application.
+
+Pour qui ?
+- Plus accès sur les adultes et ado.
+
+Pourquoi ?
+-
